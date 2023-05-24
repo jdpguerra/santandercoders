@@ -1,1 +1,23 @@
 Inicio do curso
+Registro de versionamento do que esta sendo realizado.
+e possivel trabalhar em equipe e no final unificar os projetos.
+e feito por meio de hash todo o processo onde e possivel no final ajustar.
+os arquivos atualizados ficam visiveis pois muda a cor do arquivos.
+git diff > mostra as linhas modificados 
+
+git add "nome do arquivo"
+git commit -m "mensagem "
+git log > mostra os inputs realizados 
+git restore --staged "local do arquivos"
+git remote > mostra directorias remotos
+git pull >  adiciona os conteudos atualizados
+git fetch  > checar as modificações
+
+git> serie de comandos para versionar seu codigo
+github > armazenamento de codigos em geral.
+
+git branch testing > criar branch
+
+git log --online --decorated > log da head
+git checkout "nome da branch"
+git merge "nome do arquivo"

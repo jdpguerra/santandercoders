@@ -38,3 +38,15 @@ h1,h2 {
 p{
     font-size: 18px;
 }
+
+table tr:first-child {
+    font-size: 18px;
+
+
+}
+
+table tr:nth-child(){
+    font-size: 18px;
+
+
+}
